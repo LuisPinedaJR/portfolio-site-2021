@@ -1,6 +1,8 @@
 //import logo from './logo.svg'
 import Navbar from './components/navbar'
 import Intro from './components/intro'
+import Projects from './components/projects'
+
 import './App.css'
 
 function App() {
@@ -21,6 +23,7 @@ function App() {
         </a> */}
         <Navbar />
         <Intro />
+        <Projects />
       </header>
     </div>
   )
