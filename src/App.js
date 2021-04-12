@@ -1,9 +1,9 @@
 //import logo from './logo.svg'
 import Navbar from './components/navbar'
 import Intro from './components/intro'
-import Projects from './components/projects'
 
 import './App.css'
+import Cards from './components/cards'
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
         </a> */}
         <Navbar />
         <Intro />
-        <Projects />
+        <Cards />
       </header>
     </div>
   )
