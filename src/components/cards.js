@@ -12,14 +12,14 @@ export default class cards extends Component {
           <Card
             title="Bobo, Llc"
             text="Agency Website"
-            image={'https://cl.ly/8414645535bd/download/DarkP0008.png'}
+            image={''}
             note="Made with GatsbyJS"
             url="https://thinkbobo.com/"
           />
           <Card
             title="Bobo, Llc"
             text="Agency Website"
-            image={'https://cl.ly/8414645535bd/download/DarkP0008.png'}
+            image={''}
             note="Made with GatsbyJS"
             url="https://thinkbobo.com/"
           />
